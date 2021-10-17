@@ -67,7 +67,8 @@ input {
   display: flex;
   justify-content: space-between;
   max-width: 60vw;
-  margin: 50px auto;
+  margin: 5% 0 0 0;
+  align-items: center;
 }
 .text-container {
   width: 30%;
